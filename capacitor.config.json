@@ -1,0 +1,7 @@
+{
+  "appId": "com.watersort.puzzle",
+  "appName": "Water Sort",
+  "webDir": "www",
+  "backgroundColor": "#070b16",
+  "server": { "androidScheme": "https" }
+}
